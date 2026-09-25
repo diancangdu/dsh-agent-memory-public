@@ -1,0 +1,19 @@
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+
+# backups
+*.bak
+*.bak_*
+
+# runtime experience library (never publish: contains session detail)
+.learnings/
+
+# os noise
+Thumbs.db
+Desktop.ini
+.DS_Store
